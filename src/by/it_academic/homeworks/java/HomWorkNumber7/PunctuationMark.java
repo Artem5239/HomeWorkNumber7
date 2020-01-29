@@ -1,4 +1,4 @@
-package by.it_academic.workwithstring.java;
+package by.it_academic.homeworks.java.HomWorkNumber7;
 
 public class PunctuationMark {
            public static void main(String[] args) {
@@ -14,6 +14,8 @@ public class PunctuationMark {
             }
 
             System.out.println("In text " + Mark + " punctuation marks");
+
+
         }
     }
 

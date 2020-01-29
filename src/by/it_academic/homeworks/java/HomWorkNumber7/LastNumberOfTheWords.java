@@ -1,4 +1,4 @@
-package by.it_academic.workwithstring.java;
+package by.it_academic.homeworks.java.HomWorkNumber7;
 
 public class LastNumberOfTheWords {
     public static void main(String[] args) {
