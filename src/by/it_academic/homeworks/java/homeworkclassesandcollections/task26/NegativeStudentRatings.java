@@ -1,4 +1,4 @@
-package by.it_academic.homeworks.java.HomWorkNumber7;
+package by.it_academic.homeworks.java.homeworkclassesandcollections.task26;
 
 import java.util.ArrayList;
 
