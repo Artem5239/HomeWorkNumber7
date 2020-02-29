@@ -1,4 +1,4 @@
-package by.it_academic.homeworks.java.homeworkclassesandcollections.task25;
+package by.it_academic.homeworks.java.homeworkclassesandcollections.houseHold;
 
 abstract class Household {
     String name;

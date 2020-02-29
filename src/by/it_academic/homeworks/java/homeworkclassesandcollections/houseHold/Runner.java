@@ -1,4 +1,4 @@
-package by.it_academic.homeworks.java.homeworkclassesandcollections.task25;
+package by.it_academic.homeworks.java.homeworkclassesandcollections.houseHold;
 
 public class Runner {
     public static void main (String[] args) {

@@ -1,4 +1,4 @@
-package by.it_academic.homeworks.java.homeworkclassesandcollections.task27;
+package by.it_academic.homeworks.java.homeworkclassesandcollections.collectionWithoutDuplicates;
 
 import java.util.ArrayList;
 

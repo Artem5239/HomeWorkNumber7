@@ -1,4 +1,4 @@
-package by.it_academic.homeworks.java.homeworkclassesandcollections.task26;
+package by.it_academic.homeworks.java.homeworkclassesandcollections.arraylistWithNegativeStudents;
 
 import java.util.ArrayList;
 
